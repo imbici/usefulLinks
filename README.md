@@ -12,3 +12,6 @@ https://1337red.wordpress.com/using-the-dde-attack-with-powershell-empire/
 
 ## Fully undetectable backdooring PE file
 https://haiderm.com/fully-undetectable-backdooring-pe-file/
+
+## Using Python To Get A Shell Without A Shell
+https://depthsecurity.com/blog/using-python-to-get-a-shell-without-a-shell
