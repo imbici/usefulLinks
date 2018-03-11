@@ -30,3 +30,6 @@ https://blog.0day.rocks/practical-waterholing-through-dns-typosquatting-e252e6a2
 
 ## Introducing Mythril: A framework for bug hunting on the Ethereum blockchain
 https://hackernoon.com/introducing-mythril-a-framework-for-bug-hunting-on-the-ethereum-blockchain-9dc5588f82f6
+
+## spoofing emails Breaking DKIM - on Purpose and by Chance
+http://noxxi.de/research/breaking-dkim-on-purpose-and-by-chance.html
