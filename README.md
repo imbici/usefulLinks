@@ -21,3 +21,6 @@ https://research.checkpoint.com/eternalblue-everything-know/
 
 ## Extract Non-Exportable Certificates and Evade Anti-Virus with Mimikatz and Powersploit
 https://insinuator.net/2017/10/extract-non-exportable-certificates-and-evade-anti-virus-with-mimikatz-and-powersploit/
+
+## Practical waterholing through DNS typosquatting
+https://blog.0day.rocks/practical-waterholing-through-dns-typosquatting-e252e6a2f99e
