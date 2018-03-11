@@ -1,6 +1,9 @@
 # usefulLinks
 useful articles
 
+## SCANNING EFFECTIVELY THROUGH A SOCKS PIVOT WITH NMAP AND PROXYCHAINS
+https://cybersyndicates.com/2015/12/nmap-and-proxychains-scanning-through-a-socks-piviot/
+
 ## A penetration tester’s guide to sub-domain enumeration
 https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6
 
