@@ -15,3 +15,9 @@ https://haiderm.com/fully-undetectable-backdooring-pe-file/
 
 ## Using Python To Get A Shell Without A Shell
 https://depthsecurity.com/blog/using-python-to-get-a-shell-without-a-shell
+
+## EternalBlue – Everything There Is To Know
+https://research.checkpoint.com/eternalblue-everything-know/
+
+## Extract Non-Exportable Certificates and Evade Anti-Virus with Mimikatz and Powersploit
+https://insinuator.net/2017/10/extract-non-exportable-certificates-and-evade-anti-virus-with-mimikatz-and-powersploit/
