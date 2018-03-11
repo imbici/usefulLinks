@@ -7,6 +7,8 @@ https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-
 ## Exploit Microsoft Office DDE Command Execution Vulnerability
 http://www.rvrsh3ll.net/blog/phishing/phishing-for-access/
 http://securityblog.gr/4478/exploit-microsoft-office-dde-command-execution-vulnerability/
+## USING THE DDE ATTACK WITH POWERSHELL EMPIRE
+https://1337red.wordpress.com/using-the-dde-attack-with-powershell-empire/
 
 ## Fully undetectable backdooring PE file
 https://haiderm.com/fully-undetectable-backdooring-pe-file/
